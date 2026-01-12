@@ -16,19 +16,17 @@ Through an interactive web portal, you can explore 2D and 3D UMAP embeddings, qu
 
 All ZMAP reference data are publicly available as AnnData (`.h5ad`) files.
 
+
 - **Raw counts**
   *(3.5 GB; raw counts)*
-  [Download (.h5ad)](https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_250402_raw.h5ad)
-
-- <strong>Raw counts</strong>
-  *(3.5 GB; raw counts)*
-  [<a href="URL">Download (.h5ad)</a>]
+  [<a href="[URL](https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_250402_raw.h5ad)">Download)</a>]
   [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy link</a>]<br>
   
 
 - **Processed (recommended)**
   *(3.5 GB; raw counts + all annotations)*
-  [Download (.h5ad)](<https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed_slim.h5ad>)
+  [<a href="[URL](https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed_slim.h5ad)">Download (.h5ad)</a>]
+  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy link</a>]<br>
 
 - **Processed (full)**
   *(~25 GB; processed counts + annotations + intermediate embeddings and graphs)*
