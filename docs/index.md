@@ -20,7 +20,7 @@ All ZMAP reference data are publicly available as AnnData (`.h5ad`) files.
   *(3.5 GB; raw counts)*
   [Download (.h5ad)](https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_250402_raw.h5ad)
 
-- <strong>Raw counts</strong><br>
+- <strong>Raw counts</strong>
   *(3.5 GB; raw counts)*
   [<a href="URL">Download (.h5ad)</a>]
   [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy link</a>]<br>
