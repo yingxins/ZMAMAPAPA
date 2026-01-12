@@ -5,16 +5,16 @@ Through an interactive web portal, you can explore 2D and 3D UMAP embeddings, qu
 
 ---
 
-## Web Portal
+## ZMAP Data
+
+### Web Portal
 
 - **2D browser**: [<a href="https://zmap.pages.dev/">View</a>]
   [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br> 
 - **3D browser**: [<a href="https://zmap-3d.pages.dev/">View</a>]
   [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br> 
 
----
-
-## Download ZMAP Data
+### Download
 
 All ZMAP reference data are publicly available as AnnData (`.h5ad`) files.
 
