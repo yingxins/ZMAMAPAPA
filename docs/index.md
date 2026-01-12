@@ -1,6 +1,6 @@
 # ZMAP: Zebrafish Multi-study Atlas Project
 
-**ZMAP** (<strong><u>Z</strong></u>ebrafish **M**ulti-study **A**tlas **P**roject) is a harmonized single-cell RNA sequencing reference atlas for zebrafish embryogenesis, enabling robust cross-study comparison of cell identities.
+<strong>ZMAP</strong> (<strong><u>Z</u></strong>ebrafish <strong><u>M</u></strong>ulti-study <strong><u>A</u></strong>tlas <strong><u>Z</u></strong>roject) is a harmonized single-cell RNA sequencing reference atlas for zebrafish embryogenesis, enabling robust cross-study comparison of cell identities.
 ZMAP integrates eight published datasets comprising over 790,000 cells spanning 15 developmental time windows from gastrulation through larval stages with a curated hierarchical cell ontology from germ layer to high-resolution clusters. 
 Through an interactive web portal, you can explore 2D and 3D UMAP embeddings, query genes, access to the consensus marker resources and project your dataset on it rapidly.
 
