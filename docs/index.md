@@ -7,8 +7,10 @@ Through an interactive web portal, you can explore 2D and 3D UMAP embeddings, qu
 
 ## Web Portal
 
-- **2D browser**: [View ZMAP in 2D](https://zmap.pages.dev>)
-- **3D browser**: [View ZMAP in 3D](https://zmap-3d.pages.dev/)
+- **2D browser**: [<a href="https://zmap.pages.dev/">View</a>]
+  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br> 
+- **3D browser**: [<a href=["https://zmap.pages.dev/"](https://zmap-3d.pages.dev/)>View</a>]
+  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br> 
 
 ---
 
@@ -20,23 +22,23 @@ All ZMAP reference data are publicly available as AnnData (`.h5ad`) files.
 - **Raw counts**
   *(3.5 GB; raw counts)*
   [<a href="https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_250402_raw.h5ad">Download</a>]
-  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy link</a>]<br>
+  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br>
   
 
 - **Processed (recommended)**
   *(3.5 GB; raw counts + all annotations)*
   [<a href="https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed_slim.h5ad">Download</a>]
-  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy link</a>]<br>
+  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br>
 
 - **Processed (full)**
   *(~25 GB; processed counts + annotations + intermediate embeddings and graphs)*
   [<a href="https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed.h5ad">Download</a>]
-  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy link</a>]<br>
+  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br>
  
 
 - **Symphony reference** 
   [<a href="https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_260103_symphony.h5ad">Download</a>]
-  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy link</a>]<br>
+  [<a href="#" onclick="copyToClipboard('URL'); return false;">Copy Link</a>]<br>
   
 ---
 
