@@ -8,8 +8,8 @@ Through an interactive web portal, you can explore 2D and 3D UMAP embeddings, qu
 
 ## Web Portal
 
-- **2D browser**: https://zmap.pages.dev  
-- **3D browser**: https://zmap-3d.pages.dev/
+- **2D browser**: <https://zmap.pages.dev>
+- **3D browser**: <https://zmap-3d.pages.dev/>
 
 ---
 
@@ -20,16 +20,16 @@ All ZMAP reference data are publicly available as AnnData (`.h5ad`) files.
 ### Reference atlas files
 
 - **Raw counts**  
-  https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_250402_raw.h5ad  
+  <https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_250402_raw.h5ad>  
   *(3.5 GB; raw counts)*
 
 - **Processed (recommended)**  
-  https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed_slim.h5ad  
+  <https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed_slim.h5ad>
   *(3.5 GB; raw counts + all annotations)*
 
 - **Processed (full)**  
-  https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed.h5ad  
+  <https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_251209_processed.h5ad>
   *(~25 GB; processed counts + annotations + intermediate embeddings and graphs)*
 
 - **Symphony reference**  
-  https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_260103_symphony.h5ad
+  <https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_260103_symphony.h5ad>
