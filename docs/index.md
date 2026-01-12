@@ -30,3 +30,9 @@ All ZMAP reference data are publicly available as AnnData (`.h5ad`) files.
  
 
 - **Symphony reference**  [Download (.h5ad)](<https://pub-dbadc2c623224cb58d93cfa3b950fef5.r2.dev/h5ad/ZMAP_260103_symphony.h5ad>)
+
+---
+
+## Citation
+
+If you use ZMAP in your research, please cite:
